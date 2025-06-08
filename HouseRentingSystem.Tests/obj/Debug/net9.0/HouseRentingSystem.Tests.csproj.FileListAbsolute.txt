@@ -348,3 +348,4 @@
 /Users/macbookpro16/Vs_code/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net9.0/HouseRentingSystem.Tests.pdb
 /Users/macbookpro16/Vs_code/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net9.0/HouseRentingSystem.Tests.genruntimeconfig.cache
 /Users/macbookpro16/Vs_code/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net9.0/ref/HouseRentingSystem.Tests.dll
+/Users/macbookpro16/Vs_code/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/Debug/net9.0/HouseRentingSystem.Tests.sourcelink.json

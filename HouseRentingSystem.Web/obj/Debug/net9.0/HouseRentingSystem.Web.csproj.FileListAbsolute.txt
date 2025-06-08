@@ -391,3 +391,4 @@
 /Users/macbookpro16/Vs_code/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net9.0/HouseRentingSystem.Web.pdb
 /Users/macbookpro16/Vs_code/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net9.0/HouseRentingSystem.Web.genruntimeconfig.cache
 /Users/macbookpro16/Vs_code/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net9.0/ref/HouseRentingSystem.Web.dll
+/Users/macbookpro16/Vs_code/04-House-Renting-System-App/HouseRentingSystem.Web/obj/Debug/net9.0/HouseRentingSystem.Web.sourcelink.json
